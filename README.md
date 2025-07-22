@@ -1,5 +1,5 @@
 # wofi-vim
-wofi menu to select Vim commands from cheat sheet
+wofi menu to select Vim commands from [cheat sheet](https://vim.rtorr.com/)
 
 ## Install from AUR
 
